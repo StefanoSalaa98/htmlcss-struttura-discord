@@ -85,3 +85,12 @@ header{
     background-color: pink;
 
 }
+
+.tecnologia{
+    width:60%;
+    margin: 0 auto;
+
+    /*DEBUD*/
+    background-color: darkgreen;
+    height:300px;
+}
