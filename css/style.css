@@ -105,7 +105,7 @@ header{
 }
 
 
-/*Regole Header*/
+/*Regole Footer*/
 
 .parlare{
     width:30%;
@@ -131,7 +131,7 @@ header{
     border: 1px solid white;
 }
 
-.nera{
+footer{
     /*DEBUG*/
     background-color: black;
 }
@@ -140,6 +140,7 @@ header{
 
     display:flex;
     justify-content:space-between;
+    
     
     /*DEBUG*/
     height:100px;
@@ -153,3 +154,10 @@ header{
     background-color: yellow;
 }
 
+.divisore{
+    background-color:gray;
+    margin: 0 auto;
+    width:60%;
+    height:2px;
+    margin-bottom:20px;
+}
