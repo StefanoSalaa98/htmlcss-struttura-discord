@@ -39,10 +39,12 @@ header{
 
 #accedi{
     width:15%;
+    text-align:right;
 }
 
 #menu{
     width:30%;
+    text-align:center;
 }
 
 .presentazione{
@@ -132,7 +134,6 @@ header{
 }
 
 footer{
-    /*DEBUG*/
     background-color: black;
 }
 
