@@ -59,16 +59,20 @@ header{
 
 .main_conteiner{
 
+    /*width:60%;*/
+}
+
+.modello{
     width:60%;
+    margin:0 auto;
+    padding-bottom:20px;
+    padding-top:20px;
 }
 
 .tipo1, .tipo2{
 
-    margin:0 auto;
     display:flex;
     justify-content:center;
-    padding-bottom:20px;
-    padding-top:20px;
 
     /*DEBUG*/
     height:300px;
@@ -93,10 +97,14 @@ header{
 }
 
 .tecnologia{
-    width:60%;
-    margin: 0 auto;
+       
 
     /*DEBUD*/
     background-color: darkgreen;
-    height:300px;
+    height:500px;
+}
+
+.spazio{
+    padding-bottom:20px;
+    padding-top:20px;
 }
