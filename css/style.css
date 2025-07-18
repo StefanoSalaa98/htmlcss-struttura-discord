@@ -57,12 +57,18 @@ header{
 
 /*Regole Main*/
 
+.main_conteiner{
+
+    width:60%;
+}
+
 .tipo1, .tipo2{
 
     margin:0 auto;
     display:flex;
     justify-content:center;
-    padding:20px;
+    padding-bottom:20px;
+    padding-top:20px;
 
     /*DEBUG*/
     height:300px;
@@ -73,7 +79,7 @@ header{
 }
 
 .immagine{
-    width:37%;
+    width:60%;
 
     /*DEBUG*/
     background-color:lightseagreen;
@@ -81,7 +87,7 @@ header{
 }
 
 .testo{
-    width:23%;
+    width:40%;
     background-color: pink;
 
 }
