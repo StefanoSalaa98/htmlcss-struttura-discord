@@ -69,7 +69,7 @@ header{
     padding-top:20px;
 }
 
-.tipo1, .tipo2{
+.contenitore{
 
     display:flex;
     justify-content:center;
@@ -108,3 +108,38 @@ header{
     padding-bottom:20px;
     padding-top:20px;
 }
+
+
+/*Regole Header*/
+
+.parlare{
+    width:30%;
+
+    /*DEBUD*/
+    background-color: rgb(255, 192, 203);
+}
+
+.menu_conteiner{
+
+    display:flex;
+    width:70%;
+
+    /*DEBUG*/
+    background-color: rgb(72, 230, 230);
+
+}
+
+.elenco{
+    width:25%;
+
+    /*DEBUG*/
+    border: 1px solid white;
+}
+
+.nera{
+    /*DEBUG*/
+    background-color: black;
+}
+
+
+
