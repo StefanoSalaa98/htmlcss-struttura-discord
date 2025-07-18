@@ -141,5 +141,20 @@ header{
     background-color: black;
 }
 
+.footer_conteiner{
 
+    display:flex;
+    justify-content:space-between;
+    
+    /*DEBUG*/
+    height:100px;
+    background-color:aqua;
+}
+
+.elemento_footer{
+
+    /*DEBUG*/
+    width:10%;
+    background-color: yellow;
+}
 
