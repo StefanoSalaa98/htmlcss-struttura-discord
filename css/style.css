@@ -143,14 +143,14 @@ footer{
     
     
     /*DEBUG*/
-    height:100px;
+    height:50px;
     background-color:aqua;
 }
 
 .elemento_footer{
 
     /*DEBUG*/
-    width:10%;
+    width:5%;
     background-color: yellow;
 }
 
