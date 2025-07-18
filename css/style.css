@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;  
+}
+
+/*Regole Header*/
+
+header{
+    height:300px;
+
+    /*DEBUG*/
+    background-color: blue;
+}
+
+.header_conteiner{
+    height:10%;
+    width:70%;
+    margin:0 auto;
+    display:flex;
+    flex-direction:row;
+
+    /*DEBUG*/
+    background-color:gold;
+}
+
+.info_flex{
+
+    /*DEBUG*/
+    border: 1px dashed black;
+}
+
+#logo{
+    width:25%;
+}
+
+#accedi{
+    width:25%;
+}
+
+#menu{
+    width:50%;
+}
