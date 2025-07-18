@@ -54,3 +54,34 @@ header{
     background-color: violet;
 
 }
+
+/*Regole Main*/
+
+.tipo1, .tipo2{
+
+    margin:0 auto;
+    display:flex;
+    justify-content:center;
+    padding:20px;
+
+    /*DEBUG*/
+    height:300px;
+}
+
+.tipo2{
+    background-color:lightgray;
+}
+
+.immagine{
+    width:37%;
+
+    /*DEBUG*/
+    background-color:lightseagreen;
+
+}
+
+.testo{
+    width:23%;
+    background-color: pink;
+
+}
