@@ -13,7 +13,7 @@ header{
     background-color: blue;
 }
 
-.header_conteiner{
+.header_container{
     height:10%;
     margin:0 auto;
     display:flex;
@@ -69,6 +69,9 @@ header{
 .contenitore{
 
     display:flex;
+    width:60%;
+    margin:0 auto;
+    padding-top:10px;
 
     /*DEBUG*/
     height:300px;
@@ -115,7 +118,7 @@ header{
     background-color: rgb(255, 192, 203);
 }
 
-.menu_conteiner{
+.menu_container{
 
     display:flex;
     width:70%;
@@ -136,7 +139,7 @@ footer{
     background-color: black;
 }
 
-.footer_conteiner{
+.footer_container{
 
     display:flex;
     justify-content:space-between;
