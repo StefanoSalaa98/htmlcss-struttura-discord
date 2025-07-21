@@ -33,18 +33,25 @@ header{
     border: 1px dashed black;
 }
 
-#logo{
+.logo{
     width:15%;
 }
 
-#accedi{
+.accedi{
     width:15%;
     text-align:right;
 }
 
-#menu{
+.menu-header{
     width:30%;
-    text-align:center;
+}
+
+.menu{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    gap:10%;
+    list-style-type: none;
 }
 
 .presentazione{
